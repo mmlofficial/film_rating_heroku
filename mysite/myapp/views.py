@@ -5,6 +5,8 @@ from django.urls import reverse
 from .forms import NameForm
 
 from string import punctuation
+import nltk
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 import pickle5
 import os
