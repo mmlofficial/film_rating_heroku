@@ -14,3 +14,4 @@ sqlparse==0.3.1
 threadpoolctl==2.1.0
 tqdm==4.47.0
 django-bootstrap==0.2.4
+django-bootstrap4==2.2.0
